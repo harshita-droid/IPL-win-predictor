@@ -21,7 +21,7 @@ cities = ['Bangalore', 'Chandigarh', 'Delhi', 'Mumbai', 'Kolkata', 'Jaipur',
        'Hyderabad', 'Chennai', 'Cape Town', 'Port Elizabeth', 'Durban',
        'Centurion', 'East London', 'Johannesburg', 'Kimberley',
        'Bloemfontein', 'Ahmedabad', 'Cuttack', 'Nagpur', 'Dharamsala',
-       'Visakhapatnam', 'Pune', 'Raipur', 'Ranchi', 'Abu Dhabi'
+       'Visakhapatnam', 'Pune', 'Raipur', 'Ranchi', 'Abu Dhabi',
        'Bengaluru', 'Indore', 'Dubai', 'Sharjah']
 st.title('IPL win predictor')
 
